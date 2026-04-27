@@ -57,7 +57,7 @@ pip install selenium
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```https://github.com/gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium.git```
+1. Clone the repository: ```https://github.com/Mohit-Kumar-Gupta-19/JOB-RESUME-SCREENING-APP.git```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Streamlit app: ```streamlit run app.py```
 4. Access the app in your browser at ```http://localhost:8501```
@@ -94,7 +94,6 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Streamlit application:** [https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI](https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI)
 
 <br />
 
@@ -104,7 +103,7 @@ To use this project, follow these steps:
 
 <br />
 
-🎥 **Project Demo Video:** [https://youtu.be/wFouWeK7NPg](https://youtu.be/wFouWeK7NPg)
+
 
 <br />
 
@@ -122,9 +121,9 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: mohitguptakr45@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: https://www.linkedin.com/in/mohit-kumar-gupta-3ba0b92aa/
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
